@@ -20,4 +20,9 @@
 	<FinalAmmountOfCookies>0</FinalAmmountOfCookies>
 	<FrameTestPageUrl>http://the-internet.herokuapp.com/iframe</FrameTestPageUrl>
 	<RandomStringLengthForFrame>0</RandomStringLengthForFrame>
+	<AviasalesUrl>http://aviasales.ru</AviasalesUrl>
+	<AviasalesOrigin>Минск</AviasalesOrigin>
+	<AviasalesDestination>Киев</AviasalesDestination>
+	<AviasalesDateOut>31/05/2020</AviasalesDateOut>
+	<AviasalesDateBack>05/06/2020</AviasalesDateBack>
 </configSettings>
