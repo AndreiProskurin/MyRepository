@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configSettings>
+	<CookiesUrl>http://example.com/</CookiesUrl>
+	<Cookie1Name>example_key_1</Cookie1Name>
+	<Cookie1Value>example_value_1</Cookie1Value>
+	<Cookie2Name>example_key_2</Cookie2Name>
+	<Cookie2Value>example_value_2</Cookie2Value>
+	<Cookie3Name>example_key_3</Cookie3Name>
+	<Cookie3Value>example_value_3</Cookie3Value>
+	<Cookie3NewValue>example_value_300</Cookie3NewValue>
+	<FinalAmmountOfCookies>0</FinalAmmountOfCookies>
+</configSettings>
