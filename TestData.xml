@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configSettings>
+	<BasicAuthorizationUrl>httpbin.org/basic-auth/user/passwd</BasicAuthorizationUrl>
+	<Login>user</Login>
+	<Password>passwd</Password>
+	<ExpectedResult>{
+  "authenticated": true, 
+  "user": "user"
+}</ExpectedResult>
+</configSettings>
