@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configSettings>
+	<AlertsPageUrl>http://the-internet.herokuapp.com/javascript_alerts</AlertsPageUrl>
+	<RandomStringLengthForAlerts>0</RandomStringLengthForAlerts>
+</configSettings>
